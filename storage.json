@@ -1,1 +1,819 @@
-{"cookies":[{"name":"ATTRIBUTION_V1","value":"%7B%22initialAttribution%22%3A%7B%22source%22%3A%22unknown%22%2C%22medium%22%3A%22unknown%22%2C%22campaign%22%3Anull%2C%22term%22%3Anull%2C%22content%22%3Anull%2C%22route%22%3A%22%5C%2Flogin%22%2C%22referer%22%3A%22unknown%22%2C%22version%22%3A%221.0.0%22%2C%22createDateTime%22%3A%221748930273%22%7D%2C%22lastAttribution%22%3Anull%7D","domain":".chess.com","path":"/","expires":1751522273.483232,"httpOnly":false,"secure":false,"sameSite":"Lax"},{"name":"psid","value":"b048a3a6-403f-11f0-a82d-23bc37fec7e7","domain":".chess.com","path":"/","expires":1748932073.483348,"httpOnly":false,"secure":true,"sameSite":"Lax"},{"name":"me","value":"%7B%22deviceId%22%3A%22b048e366-403f-11f0-af19-6df954d00f55%22%7D","domain":".chess.com","path":"/","expires":1780466273.483384,"httpOnly":false,"secure":false,"sameSite":"Strict"},{"name":"visitorid","value":"%3Af799%3Affff%3A152.58.70.124","domain":"www.chess.com","path":"/","expires":1780466273.483459,"httpOnly":true,"secure":false,"sameSite":"Lax"},{"name":"__cf_bm","value":"CoBiceKd7_lXmw_dX3_UGthsj9NG6GL0uaw2CCaL7y0-1748930273-1.0.1.1-X84ZDhfMe0PemsbnwWyHHlrPh6zGqIPzy3CsXXyOP6maxRhxxmH4XTLHr353uvv6QNPgY9GoZ_Mf4vBG.G.zjDWgiLqe.KIEnGYm8HohjA3jclPpvSXhUtbM_V7UwQ.G","domain":".chess.com","path":"/","expires":1748932073.496719,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"CHESSCOM_REMEMBERME","value":"Chess.WebBundle.Entity.User%3AUmFtMDc0MTI~%3A1780466278%3AzLf-zwawf431869pzGK2BX9dbk7TwkEGgLPL26H7jds~71lL2KmnTXz-5USTrGLYpfZKRMbHhyAIByYq0OEfUXg~","domain":".www.chess.com","path":"/","expires":1780466278.594873,"httpOnly":true,"secure":true,"sameSite":"Lax"},{"name":"PHPSESSID","value":"debb04326fd1734cb8c90ce2b30618c8","domain":".chess.com","path":"/","expires":-1,"httpOnly":true,"secure":true,"sameSite":"Lax"},{"name":"asset_push","value":"20250602142603%3Bc604a%2C197b0","domain":".www.chess.com","path":"/","expires":1749794279.509663,"httpOnly":true,"secure":false,"sameSite":"Lax"},{"name":"OptanonConsent","value":"isGpcEnabled=0&datestamp=Tue+Jun+03+2025+11%3A28%3A00+GMT%2B0530+(India+Standard+Time)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&consentId=6d2deecc-2599-4a3c-8802-9d4c073333fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0005%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH57%3A1%2CH6%3A1%2CH7%3A1%2CH74%3A1%2CH19%3A1%2CH17%3A1%2CH118%3A1%2CH226%3A1%2CH130%3A1%2CH239%3A1%2CH15%3A1%2CH20%3A1%2CH158%3A1%2CH3%3A1%2CH4%3A1%2CH5%3A1%2CH248%3A1%2CH251%3A1%2CH266%3A1%2CH269%3A1%2CH270%3A1%2CH14%3A1%2CH2%3A1%2CH207%3A1%2CH64%3A1%2CH9%3A1%2CH12%3A1%2CH16%3A1%2CH154%3A1%2CH190%3A1%2CH26%3A1%2CH206%3A1%2CH27%3A1%2CH28%3A1%2CH29%3A1%2CH30%3A1%2CH31%3A1%2CH32%3A1%2CH234%3A1%2CH33%3A1%2CH34%3A1%2CH35%3A1%2CH36%3A1%2CH38%3A1%2CH39%3A1%2CH40%3A1%2CH41%3A1%2CH42%3A1%2CH43%3A1%2CH44%3A1%2CH45%3A1%2CH46%3A1%2CH47%3A1%2CH242%3A1%2CH21%3A1%2CH48%3A1%2CH49%3A1%2CH50%3A1%2CH243%3A1%2CH51%3A1%2CH235%3A1%2CH52%3A1%2CH244%3A1%2CH53%3A1%2CH208%3A1%2CH209%3A1%2CH54%3A1%2CH245%3A1%2CH246%3A1%2CH55%3A1%2CH56%3A1%2CH210%3A1%2CH211%3A1%2CH212%3A1%2CH58%3A1%2CH59%3A1%2CH60%3A1%2CH61%3A1%2CH62%3A1%2CH63%3A1%2CH247%3A1%2CH213%3A1%2CH214%3A1%2CH215%3A1%2CH65%3A1%2CH216%3A1%2CH236%3A1%2CH66%3A1%2CH67%3A1%2CH8%3A1%2CH68%3A1%2CH69%3A1%2CH200%3A1%2CH70%3A1%2CH249%3A1%2CH71%3A1%2CH72%3A1%2CH250%3A1%2CH73%3A1%2CH75%3A1%2CH76%3A1%2CH217%3A1%2CH218%3A1%2CH77%3A1%2CH78%3A1%2CH18%3A1%2CH79%3A1%2CH203%3A1%2CH80%3A1%2CH81%3A1%2CH82%3A1%2CH83%3A1%2CH84%3A1%2CH85%3A1%2CH252%3A1%2CH86%3A1%2CH219%3A1%2CH87%3A1%2CH88%3A1%2CH220%3A1%2CH221%3A1%2CH89%3A1%2CH90%3A1%2CH222%3A1%2CH91%3A1%2CH92%3A1%2CH93%3A1%2CH94%3A1%2CH237%3A1%2CH95%3A1%2CH253%3A1%2CH96%3A1%2CH97%3A1%2CH98%3A1%2CH223%3A1%2CH10%3A1%2CH99%3A1%2CH100%3A1%2CH101%3A1%2CH254%3A1%2CH102%3A1%2CH255%3A1%2CH11%3A1%2CH103%3A1%2CH104%3A1%2CH224%3A1%2CH256%3A1%2CH257%3A1%2CH105%3A1%2CH106%3A1%2CH107%3A1%2CH225%3A1%2CH108%3A1%2CH109%3A1%2CH110%3A1%2CH111%3A1%2CH112%3A1%2CH113%3A1%2CH114%3A1%2CH115%3A1%2CH258%3A1%2CH116%3A1%2CH117%3A1%2CH202%3A1%2CH259%3A1%2CH120%3A1%2CH121%3A1%2CH122%3A1%2CH260%3A1%2CH13%3A1%2CH123%3A1%2CH261%3A1%2CH205%3A1%2CH227%3A1%2CH124%3A1%2CH125%3A1%2CH126%3A1%2CH127%3A1%2CH128%3A1%2CH129%3A1%2CH131%3A1%2CH132%3A1%2CH133%3A1%2CH134%3A1%2CH201%3A1%2CH238%3A1%2CH135%3A1%2CH136%3A1%2CH262%3A1%2CH137%3A1%2CH138%3A1%2CH139%3A1%2CH140%3A1%2CH141%3A1%2CH240%3A1%2CH142%3A1%2CH143%3A1%2CH144%3A1%2CH145%3A1%2CH146%3A1%2CH263%3A1%2CH147%3A1%2CH148%3A1%2CH149%3A1%2CH150%3A1%2CH264%3A1%2CH151%3A1%2CH265%3A1%2CH228%3A1%2CH152%3A1%2CH153%3A1%2CH155%3A1%2CH156%3A1%2CH157%3A1%2CH159%3A1%2CH23%3A1%2CH160%3A1%2CH161%3A1%2CH162%3A1%2CH163%3A1%2CH164%3A1%2CH165%3A1%2CH166%3A1%2CH267%3A1%2CH229%3A1%2CH167%3A1%2CH168%3A1%2CH169%3A1%2CH241%3A1%2CH170%3A1%2CH171%3A1%2CH172%3A1%2CH173%3A1%2CH174%3A1%2CH175%3A1%2CH176%3A1%2CH177%3A1%2CH178%3A1%2CH179%3A1%2CH268%3A1%2CH180%3A1%2CH25%3A1%2CH181%3A1%2CH182%3A1%2CH183%3A1%2CH230%3A1%2CH184%3A1%2CH185%3A1%2CH186%3A1%2CH187%3A1%2CH188%3A1%2CH231%3A1%2CH189%3A1%2CH191%3A1%2CH192%3A1%2CH193%3A1%2CH271%3A1%2CH194%3A1%2CH195%3A1%2CH196%3A1%2CH232%3A1%2CH197%3A1%2CH233%3A1%2CH198%3A1%2CH272%3A1%2CH199%3A1%2CH204%3A1&genVendors=V2%3A1%2C&AwaitingReconsent=false","domain":".chess.com","path":"/","expires":1780466280,"httpOnly":false,"secure":false,"sameSite":"Lax"},{"name":"__cf_bm","value":"UKI1TArFlQlVLI8KQDzvkQK6RIJp49V4.oUCeJj.BtA-1748930280-1.0.1.1-HOCCVVblP.ze60zj0wgYSJ0.Ybp_bRVFy4G7qP7j_EYXOglHlkqjIPiEi1n59LDQnV3FnfSPHbWaELA5.3Dd9w31lYZ9dxgFFAmh_7BB6zE","domain":".chesscomfiles.com","path":"/","expires":1748932080.383706,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"GCLB","value":"CMPsyqibzarYQhAD","domain":"www.chess.com","path":"/","expires":1749016680.447627,"httpOnly":true,"secure":false,"sameSite":"Lax"},{"name":"psid","value":"b048a3a6-403f-11f0-a82d-23bc37fec7e7","domain":"www.chess.com","path":"/","expires":1748932086,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"server_session_id","value":"868649e5bdf84df8bb99856dd3628392","domain":".twitch.tv","path":"/","expires":-1,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"unique_id","value":"1dac3b6583a6a2dd","domain":".twitch.tv","path":"/","expires":1783058281.23273,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"unique_id_durable","value":"1dac3b6583a6a2dd","domain":".twitch.tv","path":"/","expires":1783058281.232782,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"referrer_url","value":"https://www.chess.com/","domain":".twitch.tv","path":"/","expires":1748932081,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"experiment_overrides","value":"{%22experiments%22:{}%2C%22disabled%22:[]}","domain":".twitch.tv","path":"/","expires":1783058281,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"api_token","value":"twilight.c1ad8b0ebe2ca22927129c9a2355bb28","domain":".twitch.tv","path":"/","expires":1783058281,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"ad-id","value":"A69IiPFhG0IrvyHAPZ__Di8","domain":".amazon-adsystem.com","path":"/","expires":1767247084.17269,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"ad-privacy","value":"0","domain":".amazon-adsystem.com","path":"/","expires":1783490284.173123,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"ga__15_abel-ssn","value":"0b6NjYA1QVjxyRktZYqsIRy6otUwGPTqWSetB0pyfZmhnx4XYj1pXQ7NfanqxbzRbLhIyIKT55TrVjrvdWdy4Rd2LSVBsETD1zGjH2BQ6zDSAPijhYK7u2DOIdv40lHfjIluaJUvXdMsNjYboY5zff7giG7dRtfSU95E2sx","domain":"passport.twitch.tv","path":"/","expires":1749016686.426439,"httpOnly":true,"secure":true,"sameSite":"None"},{"name":"theme_cache_id","value":"9d9d498bfce9db5e1e9f2a436e580fec073550d0:5e694926-c1eb-11ec-a802-11dfaa67a4a7","domain":"www.chess.com","path":"/","expires":1749103086,"httpOnly":false,"secure":true,"sameSite":"None"},{"name":"KP_UIDZ_1-ssn","value":"0bLw7FCkoDq28KXHSGzBHw5F2fMrmiBXY1KkcZRQ9H34kVe1wAKf2sU1tfyzYyFfOniYpOfiJD0lFb0zeL344ZW0yikYU9nzLVyqhP2YZcZcZiWCjZ2D3LaIgp24DHvo9wewXQzywlAsUegHmuBlPVyb8dH3E4ahodkuMC6","domain":"gql.twitch.tv","path":"/","expires":1749016687.245641,"httpOnly":true,"secure":true,"sameSite":"None"}],"origins":[{"origin":"https://www.chess.com","localStorage":[{"name":"settingsHttpCache","value":"{\"5e694926-c1eb-11ec-a802-11dfaa67a4a7\":{\"toaster_center.automatically_expand_toasters,toaster_center.show_club_request_toasters,toaster_center.show_friend_request_toasters,toaster_center.show_tournament_reminder_toasters\":{\"tag\":\"W/\\\"6209dad81e007f6c4036a8d978e1426f\\\"\",\"settings\":{\"toaster_center.show_friend_request_toasters\":true,\"toaster_center.show_tournament_reminder_toasters\":true,\"toaster_center.show_club_request_toasters\":true,\"toaster_center.automatically_expand_toasters\":true}}}}"},{"name":"user-activity-sdk-device-id","value":"b048e366-403f-11f0-af19-6df954d00f55"},{"name":"Resource.coachesService.currentCoach","value":"{\"timestamp\":1748930280322,\"data\":{\"currentCoach\":{\"id\":\"3779595e-d0a4-11ee-a188-05b5e2276152\",\"name\":\"Mae\",\"titledName\":\"Coach Mae\",\"imageUrl\":\"https://assets-coaches.chess.com/image/coachmae.png\",\"voiceId\":\"Mae_coach\",\"country\":{\"id\":78,\"name\":\"Japan\",\"nameLocalized\":\"Japan\",\"code\":\"JP\"},\"locale\":\"en-US\",\"textId\":\"Generic_coach\",\"analyticsId\":\"Mae\",\"iconUrl\":\"https://assets-coaches.chess.com/image/coachmae-icon.png\"}}}"},{"name":"homeCoachNudgesCache","value":"{\"lastShown\":\"2025-06-03T05:58:00.435Z\"}"},{"name":"currentCoach","value":"{\"id\":\"3779595e-d0a4-11ee-a188-05b5e2276152\",\"name\":\"Mae\",\"titledName\":\"Coach Mae\",\"imageUrl\":\"https://assets-coaches.chess.com/image/coachmae.png\",\"voiceId\":\"Mae_coach\",\"country\":{\"id\":78,\"name\":\"Japan\",\"nameLocalized\":\"Japan\",\"code\":\"JP\"},\"locale\":\"en-US\",\"textId\":\"Generic_coach\",\"analyticsId\":\"Mae\",\"iconUrl\":\"https://assets-coaches.chess.com/image/coachmae-icon.png\"}"},{"name":"league-promotion-modal-fetched-week","value":"23"},{"name":"chat-cache-5e694926-c1eb-11ec-a802-11dfaa67a4a7","value":"{\"chat-open-chats\":{}}"},{"name":"league-division-started-modal-fetched-week","value":"23"},{"name":"json_settings","value":"{\"lastSavedRelease\":1504891089,\"cclocale\":\"en_US\",\"chessComAppState\":\"{}\"}"}]},{"origin":"https://player.twitch.tv","localStorage":[{"name":"local_copy_unique_id","value":"\"1dac3b6583a6a2dd\""},{"name":"local_storage_device_id","value":"\"ce30aae0d808f6cf\""},{"name":"local_storage_app_session_id","value":"\"ce188dfe764df363\""},{"name":"sentry_device_id","value":"\"d38ce0d04c36e637\""},{"name":"CV7o9fRC/gx24wn2","value":"{tG\u000eJ\u0015\",]\u0013VFC\u001e\u001aQ\tYC'tO>fR\n\u0010R'3S,U\u000f7-[3\u0017YQ\u0019L\bCGUg\u0018\u001f\u001c\u0005\u00065%W;/e\u0004M<\u000b2\\.*K\u0002\u0018\u001ag\u00160g\u0005'\"\u0016!C&CM:0m\u0002Q\b*ww>\u0012\u0003D/?\u0005/\u0011V?'\r'>e\u0006?U\n/~$mSg\u0017]1\u0012@B\u00139V\u0018Ce5d9\u0016\u0012u\u00176i\u0007gM(S.`\u0001~Q\u0002vg6>[\u000b\u001fn\u001aa\u0000w\u0000x-\u0017Kwf['_\f\u001b/Z\u00062gB/\n\u00129]\b4\u001a\u001cqM\u0002\u0015\n$?pX]4&%|2A\u0007qE\u001dJC[\u00152$\f50X'\u001b\\/:R\u0001^\u0003\u0017-N\u0005\u0014WPUTF\u0013\u0002R}t\u0006 6A\u0001\u0001i*;RM\u0003Wew\u0017^K\u0002\u0006OX\u0001PB\u001bs5\u0019,!Y\u0010'T.3\u0015U\bQf{\u0016TH\u0000\fAZ\u0000Y\n\u001bs1\u0004)jC\u0013\u001aI >\u0019\u001bODh8\r\u0002\u0016Q[\u0013\u000bV\"\u001b^48\u0001\u0011+\\\u0001\u001d\u001fyt\u0007\ru\u0011e\u0005l\f\u0017vEEVy9?d\u0016,7\r3\u0002\"A[\u000e$Z\u0006{>\u000brd\f\u001bhf&WzRC\\\u00073D2\u0005|\u0002AN\u0016gC\t@\u001c\u000b:i\u00017\\].\u001e}\u0007\u001e}\u0015f\u0019\u0003&\u0007\u001e\u0016qpb\u00035nV+*D>-\u000bZ\r\"d\u0018\u0006_\u0001d,\u001f'm\u0007)T\u0014\u0015]5\u000b\"a\u000fN.\u001fB\u0006C*z\u0017\u0018\u000e&3\u0002\u001d\u0015M\u001d\u0004Q\u0002%b\n^.?6m\u000b(dM\u0015VV)Dre7\u001d* \\\u0011>~ut\u001bMZ\u0014+3[\b;ZU\u001b\u0002W\u000f\u0010R\u00148\u0014'(R\u0000Q\u00077$B\n\u0015D!&]\u0011\u001d@`\u001e\u0003WCM\u0006fbM|w\u0007VK\nrd\u0007C\u001b\u0005>*J\t\ff]\u001a\u000b\u0010[F\u0000enLvt\u0005\\D\u000fwnJ\u0012"}]}]}
+{
+  "cookies": [
+    {
+      "name": "cto_bundle",
+      "value": "QBffO19YJTJCR0ZSZkNIYVk0ZVJaQ09sOTVWZXNtWVBmaHdualNNNHpWd2xZaUolMkIwekRQckJYbEthS0MlMkJSTyUyQkxET0hrQ1hUUVJDc3A0Vm5ZN3dxVGRLR0FqRjM1MHRaYU1qeSUyRjZqTTdVZ3BHNGRiZDglM0Q",
+      "domain": ".criteo.com",
+      "path": "/openrtb_2_5/pbjs/auction",
+      "expires": 1785940473.188606,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "me",
+      "value": "%7B%22deviceId%22%3A%22b048e366-403f-11f0-af19-6df954d00f55%22%7D",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1780466273.483384,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "visitorid",
+      "value": "%3Af799%3Affff%3A152.58.70.124",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1783780526.779902,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "server_session_id",
+      "value": "868649e5bdf84df8bb99856dd3628392",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "unique_id",
+      "value": "1dac3b6583a6a2dd",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1783058281.23273,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "unique_id_durable",
+      "value": "1dac3b6583a6a2dd",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1783058281.232782,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "experiment_overrides",
+      "value": "{%22experiments%22:{}%2C%22disabled%22:[]}",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1783058281,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "api_token",
+      "value": "twilight.c1ad8b0ebe2ca22927129c9a2355bb28",
+      "domain": ".twitch.tv",
+      "path": "/",
+      "expires": 1783058281,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-id",
+      "value": "A69IiPFhG0IrvyHAPZ__Di8",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1775054075.065702,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ad-privacy",
+      "value": "0",
+      "domain": ".amazon-adsystem.com",
+      "path": "/",
+      "expires": 1786804475.065745,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psid",
+      "value": "23981962-5e64-11f0-9b34-afaed30b7c75",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1752246264.064783,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "jPdPLxUguQhXplimQO2RBMvELUi1Xl8UZ8EKheGHDT0-1752244464-1.0.1.1-R7Nuk16KH6PhBZTXVxvQHMVeCfMh72eXJvsPCqVyFOyXXrlJGY4owKU76TFYOhcnorP6H0yb8TmMu50HW.XlSVENWRJV2ed8fxkJTcI.SHC6R9PgJZevtzUNyU9.Kt.b",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1752246264.064955,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "Z43xbvgWSj3k4VQkPwVPdTJftnxZ8s2AGAb1HVsjnII-1752244464-1.0.1.1-J8Ubnv7TvjdzCJuz4fPWdvWOyUUGXs8u1p64THNut49bwDhsjidv39Hqotzjo66LhX5QIirUvjus5BpoV6EPhNW..EgV5zUhyvLX1OPilMU",
+      "domain": ".chesscomfiles.com",
+      "path": "/",
+      "expires": 1752246264.375938,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "GCLB",
+      "value": "CJbonpTFi__q8AEQAw",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752330865.055063,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "psid",
+      "value": "23981962-5e64-11f0-9b34-afaed30b7c75",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752246326,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cw-test-20250625-prebid-v2-test-1-99",
+      "value": "control",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20250204-amazonsr-20",
+      "value": "control",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-stand-alone-floors-facade-hardFloor-85-15",
+      "value": "fallo",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-stand-alone-floors-facade-multiplier-90-10",
+      "value": "multc",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20250703-force-render-base-divs-30-70",
+      "value": "control",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-20250611-refresh-limiter",
+      "value": "test",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cw-test-stand-alone-floors-comparison-multiplier-0-100",
+      "value": "control",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedid",
+      "value": "3d3a54b4-cff4-4cb9-be58-821e2d38aed7",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1783780468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_sharedid_cst",
+      "value": "zix7LPQsHA%3D%3D",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1783780468,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_retry_request",
+      "value": "true",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752248069,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_env_src_ats",
+      "value": "false",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_geo_location_state",
+      "value": "RJ",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752417269.900044,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_lr_geo_location",
+      "value": "IN",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752417269.900143,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mc",
+      "value": "687120f5-8b15d-e0b0a-8dcba",
+      "domain": ".quantserve.com",
+      "path": "/",
+      "expires": 1786458869.612934,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "TDID",
+      "value": "af605df0-a6b1-4868-9b46-cf15846d217d",
+      "domain": ".adsrvr.org",
+      "path": "/",
+      "expires": 1783780469.614361,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "hb_insticator_uid",
+      "value": "365ed87c-98d0-4c69-8149-3d9144b5d408",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1754836473,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid",
+      "value": "%7B%22TDID%22%3A%22af605df0-a6b1-4868-9b46-cf15846d217d%22%2C%22TDID_LOOKUP%22%3A%22FALSE%22%2C%22TDID_CREATED_AT%22%3A%222025-07-11T14%3A34%3A29%22%7D",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1757428469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pbjs-unifiedid_cst",
+      "value": "zix7LPQsHA%3D%3D",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1757428469,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".openx.net",
+      "path": "/",
+      "expires": 1783780473.929374,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "khaos",
+      "value": "MCYX495Q-1B-1IOC",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1783780473.97235,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "audit",
+      "value": "1|WD0cx+9RTMJ+4tCht/kJVbiztg1evo9kJkDtDjylpcq7wJhUiZz+TGZVztIHCl2J8ScZnoeTVrMzgHlbzd1OQD/8MtLNt/YewrKikHHnfksijy0RC4Zd8SKPLRELhl3xIo8tEQuGXfEijy0RC4Zd8aZr5ZVxLWDe",
+      "domain": ".rubiconproject.com",
+      "path": "/",
+      "expires": 1783780473.972497,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".casalemedia.com",
+      "path": "/",
+      "expires": 1783780474.149088,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__qca",
+      "value": "P1-5ddd38ea-1a2f-4c44-b332-16f9246c2c3a",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1786113274,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1760020474.124191,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "tluid",
+      "value": "4675573625117887765280",
+      "domain": ".3lift.com",
+      "path": "/",
+      "expires": 1760020474.124215,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "id5",
+      "value": "71e783ac-18d8-7cdb-9bb5-d437a3222099#1752244469795#2",
+      "domain": ".id5-sync.com",
+      "path": "/",
+      "expires": 1760020474.402181,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "K4lSiV9mZ3pRWkV5WjAxcjFZczh4cHFTdVBpMDFIbDMzMk1uWUdDNzQ1bkI1TThKdFJBWTVxSXpvZlVKZFRwaTBLbmRWVWhZYk5iUEg3VSUyRkRhT1Y2JTJGY256elFrJTJCOXB2SER2NEYxa1A1MkRXak5LQSUzRA",
+      "domain": ".criteo.com",
+      "path": "/",
+      "expires": 1785940474.871075,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cto_bundle",
+      "value": "W4w_tl85JTJGR3R2SyUyRlJVWkclMkJXYmU1TEh3eHpnWldacXoxd1RscGNSendMWmZodU52VHRUcU41TE9jNEE0TUxUbDJxY21MMG80SUUwZGYxTHZ6UTFYeGpIY0RuSEF0eFR4eWJUaGNxZGVWa25HY0M4RlIyT1pEMkFrVENSZ0pqdktObGRrYw",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1785960273,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "cto_bidid",
+      "value": "Onf3GF95VFpjcXRsREZHU0lBc2V3YVRMdk9BeW9JUDclMkZmelpwMnAweEk1SWtlJTJGak45UklXQldRaldRSHU4b3RNQUFmJTJGZzZJWDRCTSUyQkowaGM5R1U2eGJaRDh3JTNEJTNE",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1785960273,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__gads",
+      "value": "ID=e7b0ee6f00bc3996:T=1752244474:RT=1752244474:S=ALNI_MbSjdmQXpmr5THGkUnCSD-a4HqX0A",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1785940474,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__gpi",
+      "value": "UID=0000115bead9f449:T=1752244474:RT=1752244474:S=ALNI_MYddZ2qKNmnwFHBAsAwJ4yB7jAZnQ",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1785940474,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__eoi",
+      "value": "ID=4a211df1844a956d:T=1752244474:RT=1752244474:S=AA-AfjbQsDVEAQBDP360P3IoRHIs",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1767796474,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "IDE",
+      "value": "AHWqTUlxgKvOSMxwgENBC9ZlAAwjqmFKkISRb431Zu0CrRLMGNBfoRlWWFg-fu11Ksc",
+      "domain": ".doubleclick.net",
+      "path": "/",
+      "expires": 1786804475.414835,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_lr_sampling_rate",
+      "value": "100",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752849276,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ATTRIBUTION_V1",
+      "value": "%7B%22initialAttribution%22%3A%7B%22source%22%3A%22unknown%22%2C%22medium%22%3A%22unknown%22%2C%22campaign%22%3Anull%2C%22term%22%3Anull%2C%22content%22%3Anull%2C%22route%22%3A%22%5C%2F%22%2C%22referer%22%3A%22unknown%22%2C%22version%22%3A%221.0.0%22%2C%22createDateTime%22%3A%221740592406%22%7D%2C%22lastAttribution%22%3A%7B%22source%22%3A%22unknown%22%2C%22medium%22%3A%22unknown%22%2C%22campaign%22%3Anull%2C%22term%22%3Anull%2C%22content%22%3Anull%2C%22route%22%3A%22%5C%2Flogin_and_go%3FreturnUrl%3Dhttps%3A%5C%2F%5C%2Fwww.chess.com%5C%2Fhome%22%2C%22referer%22%3A%22unknown%22%2C%22version%22%3A%221.0.0%22%2C%22createDateTime%22%3A%221752244491%22%7D%7D",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1754922891.662023,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "CHESSCOM_REMEMBERME",
+      "value": "Chess.WebBundle.Entity.User%3AUmFuYm9vZg~~%3A1783780522%3AdZ1Hov8QMB_9Mo4j5gU6drIire9x9gplU2_bgFo03cU~5o2jU98CvHX0DktB7Gyjk5sL_OFApnTGEgzSm2S-n_I~",
+      "domain": ".www.chess.com",
+      "path": "/",
+      "expires": 1783780522.701647,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "PHPSESSID",
+      "value": "fca83005225b5b60e1ea9c62ab42aa83",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "ACCESS_TOKEN",
+      "value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjU0OGRmOTcwZGEzYzRjMWFkNjAwYTk3NTg3YzIxM2E0MTkwYjNjZWYifQ.eyJhdWQiOiI4ZWVhMDExMC1mOWMxLTExZWYtOWNlNi03ZmQxMjYxMmEzZTMiLCJqdGkiOiI5NzdjYWY0YmQzOTJlNWE3NzNjMWQxYjUwM2RlODIyMGFkZTFjYTJmNzUwOTU2ZDE0MDQzYzNmYTJmYzQzZWIzMWFmOTFiNTViNzgxNDM1NyIsImlhdCI6MTc1MjI0NDUyMy4zMTU0NzcsIm5iZiI6MTc1MjI0NDUyMy4zMTU0NzksImV4cCI6MTc1MjMzMDkyMy4zMTM1MTQsInN1YiI6IjZkMDFkNmJhLWZkMDAtMTFlYy05NjY0LWFkNGY2NTI3NmY3OSIsInNjb3BlcyI6W119.XnNu8tHcXUPVv_a4goxku3tI9L2ylH8ba_w8ap1uGyogbRIH0SqTAkEye_JQn13ghc3DjSdd1gmXmah5dIDfbSdH9_04s7FmGtBvD6RI2EZRkiGvivzVTqKCIGKecAFi-DGVFqeSej0EfhT20uZgIofLjEzuhHlKIPt1NSq6VdFAR_nrDKuvolZyjXYC0n-xFw_VKrsG-QhMGqnUaNwfveyV28weyXzfxf0jG-r8pN4eWgpfKResq-KeHYohCru0pqn1OWieuRZrY3mwKX2tG5xeb6lXqq5pzSvDqbVcnG3EiYtNl61r53_5gQUOyXbkHr6I5-f0e0E3MHv-22TQpQ",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1752330923.408663,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "asset_push",
+      "value": "20250710121942%3Bba7aa%2C3051e%2C89119%2Ce2291%2C564a8",
+      "domain": ".www.chess.com",
+      "path": "/",
+      "expires": 1753108523.408773,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "OptanonConsent",
+      "value": "isGpcEnabled=0&datestamp=Fri+Jul+11+2025+20%3A05%3A25+GMT%2B0530+(India+Standard+Time)&version=202505.2.0&browserGpcFlag=0&isIABGlobal=false&consentId=6d2deecc-2599-4a3c-8802-9d4c073333fa&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0003%3A1%2CC0005%3A1%2CC0002%3A1%2CC0004%3A1&hosts=H1%3A1%2CH57%3A1%2CH6%3A1%2CH7%3A1%2CH74%3A1%2CH19%3A1%2CH17%3A1%2CH118%3A1%2CH226%3A1%2CH130%3A1%2CH239%3A1%2CH15%3A1%2CH20%3A1%2CH158%3A1%2CH3%3A1%2CH4%3A1%2CH5%3A1%2CH248%3A1%2CH251%3A1%2CH266%3A1%2CH269%3A1%2CH270%3A1%2CH14%3A1%2CH2%3A1%2CH207%3A1%2CH64%3A1%2CH9%3A1%2CH12%3A1%2CH16%3A1%2CH154%3A1%2CH190%3A1%2CH26%3A1%2CH206%3A1%2CH27%3A1%2CH28%3A1%2CH29%3A1%2CH30%3A1%2CH31%3A1%2CH32%3A1%2CH234%3A1%2CH33%3A1%2CH34%3A1%2CH35%3A1%2CH36%3A1%2CH38%3A1%2CH39%3A1%2CH40%3A1%2CH41%3A1%2CH42%3A1%2CH43%3A1%2CH44%3A1%2CH45%3A1%2CH46%3A1%2CH47%3A1%2CH242%3A1%2CH21%3A1%2CH48%3A1%2CH49%3A1%2CH50%3A1%2CH243%3A1%2CH51%3A1%2CH235%3A1%2CH52%3A1%2CH244%3A1%2CH53%3A1%2CH208%3A1%2CH209%3A1%2CH54%3A1%2CH245%3A1%2CH246%3A1%2CH55%3A1%2CH56%3A1%2CH210%3A1%2CH211%3A1%2CH212%3A1%2CH58%3A1%2CH59%3A1%2CH60%3A1%2CH61%3A1%2CH62%3A1%2CH63%3A1%2CH247%3A1%2CH213%3A1%2CH214%3A1%2CH215%3A1%2CH65%3A1%2CH216%3A1%2CH236%3A1%2CH66%3A1%2CH67%3A1%2CH8%3A1%2CH68%3A1%2CH69%3A1%2CH200%3A1%2CH70%3A1%2CH249%3A1%2CH71%3A1%2CH72%3A1%2CH250%3A1%2CH73%3A1%2CH75%3A1%2CH76%3A1%2CH217%3A1%2CH218%3A1%2CH77%3A1%2CH78%3A1%2CH18%3A1%2CH79%3A1%2CH203%3A1%2CH80%3A1%2CH81%3A1%2CH82%3A1%2CH83%3A1%2CH84%3A1%2CH85%3A1%2CH252%3A1%2CH86%3A1%2CH219%3A1%2CH87%3A1%2CH88%3A1%2CH220%3A1%2CH221%3A1%2CH89%3A1%2CH90%3A1%2CH222%3A1%2CH91%3A1%2CH92%3A1%2CH93%3A1%2CH94%3A1%2CH237%3A1%2CH95%3A1%2CH253%3A1%2CH96%3A1%2CH97%3A1%2CH98%3A1%2CH223%3A1%2CH10%3A1%2CH99%3A1%2CH100%3A1%2CH101%3A1%2CH254%3A1%2CH102%3A1%2CH255%3A1%2CH11%3A1%2CH103%3A1%2CH104%3A1%2CH224%3A1%2CH256%3A1%2CH257%3A1%2CH105%3A1%2CH106%3A1%2CH107%3A1%2CH225%3A1%2CH108%3A1%2CH109%3A1%2CH110%3A1%2CH111%3A1%2CH112%3A1%2CH113%3A1%2CH114%3A1%2CH115%3A1%2CH258%3A1%2CH116%3A1%2CH117%3A1%2CH202%3A1%2CH259%3A1%2CH120%3A1%2CH121%3A1%2CH122%3A1%2CH260%3A1%2CH13%3A1%2CH123%3A1%2CH261%3A1%2CH205%3A1%2CH227%3A1%2CH124%3A1%2CH125%3A1%2CH126%3A1%2CH127%3A1%2CH128%3A1%2CH129%3A1%2CH131%3A1%2CH132%3A1%2CH133%3A1%2CH134%3A1%2CH201%3A1%2CH238%3A1%2CH135%3A1%2CH136%3A1%2CH262%3A1%2CH137%3A1%2CH138%3A1%2CH139%3A1%2CH140%3A1%2CH141%3A1%2CH240%3A1%2CH142%3A1%2CH143%3A1%2CH144%3A1%2CH145%3A1%2CH146%3A1%2CH263%3A1%2CH147%3A1%2CH148%3A1%2CH149%3A1%2CH150%3A1%2CH264%3A1%2CH151%3A1%2CH265%3A1%2CH228%3A1%2CH152%3A1%2CH153%3A1%2CH155%3A1%2CH156%3A1%2CH157%3A1%2CH159%3A1%2CH23%3A1%2CH160%3A1%2CH161%3A1%2CH162%3A1%2CH163%3A1%2CH164%3A1%2CH165%3A1%2CH166%3A1%2CH267%3A1%2CH229%3A1%2CH167%3A1%2CH168%3A1%2CH169%3A1%2CH241%3A1%2CH170%3A1%2CH171%3A1%2CH172%3A1%2CH173%3A1%2CH174%3A1%2CH175%3A1%2CH176%3A1%2CH177%3A1%2CH178%3A1%2CH179%3A1%2CH268%3A1%2CH180%3A1%2CH25%3A1%2CH181%3A1%2CH182%3A1%2CH183%3A1%2CH230%3A1%2CH184%3A1%2CH185%3A1%2CH186%3A1%2CH187%3A1%2CH188%3A1%2CH231%3A1%2CH189%3A1%2CH191%3A1%2CH192%3A1%2CH193%3A1%2CH271%3A1%2CH194%3A1%2CH195%3A1%2CH196%3A1%2CH232%3A1%2CH197%3A1%2CH233%3A1%2CH198%3A1%2CH272%3A1%2CH199%3A1%2CH204%3A1%2CH273%3A1&genVendors=V2%3A1%2C&AwaitingReconsent=false",
+      "domain": ".chess.com",
+      "path": "/",
+      "expires": 1783780525,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "theme_cache_id",
+      "value": "65a3fa4366adcb1e4c1759ced00a4032b0776811:6d01d6ba-fd00-11ec-9664-ad4f65276f79",
+      "domain": "www.chess.com",
+      "path": "/",
+      "expires": 1752417325,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "k4AXo3f_dNGmSSAtCUwOpz_tMRxYBOwtUIWscu1EoFk-1752244526-1.0.1.1-IaMAoW4o7iiwDNisgaLiBHEFW5MND6SiyAhJh6jfcGbgPe01Wnrm9rEg6RmJxmg147xkaomGToCVlZSB8EZQqQtJoG7KP6iBe4TwxzgjZTU",
+      "domain": ".kick.com",
+      "path": "/",
+      "expires": 1752246326.311809,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_cfuvid",
+      "value": "gW4rE2Ge4JqFGufmDazGCVMU.7jgmRGCWI_52J8eUlU-1752244526360-0.0.1.1-604800000",
+      "domain": ".kick.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cf_clearance",
+      "value": "CWUPo1SGshBabcEfAE.ZKPPt_mVuHia_Mxp.Ela1G6U-1752244527-1.2.1.1-7_C70NsrX2NoR5lRACUTaN9z6t9hkPaTHOc2VzFi3VRmENWt_tQea7_0ya0PNN7OqO5EaFcoQLv25rnPMh86i5qouweDwVXnMR1yo5FvSwJ6WOabi2kYtbZhAE2i.U.4SIOKx4w1TQfvdkBsaNXMgzlVwgy63uqS4HUnvx95zsdIw6kxIPaoOx1MulX2isyxvq5bGvD4THJxk2dKR2zFUwXU0gJTc5vZsc_PRf_Hq7k",
+      "domain": ".kick.com",
+      "path": "/",
+      "expires": 1783780527.304127,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://www.chess.com",
+      "localStorage": [
+        {
+          "name": "_GESPSK-pubcid.org",
+          "value": "[\"pubcid.org\",\"3d3a54b4-cff4-4cb9-be58-821e2d38aed7\",1752244474881]"
+        },
+        {
+          "name": "cto_bidid",
+          "value": "Onf3GF95VFpjcXRsREZHU0lBc2V3YVRMdk9BeW9JUDclMkZmelpwMnAweEk1SWtlJTJGak45UklXQldRaldRSHU4b3RNQUFmJTJGZzZJWDRCTSUyQkowaGM5R1U2eGJaRDh3JTNEJTNE"
+        },
+        {
+          "name": "tude-video-blacklist",
+          "value": "{\"20250711\":{\"bidders\":[],\"creatives\":[],\"advertisers\":[]}}"
+        },
+        {
+          "name": "Resource.coachesService.currentCoach",
+          "value": "{\"timestamp\":1752244525524,\"data\":{\"currentCoach\":{\"id\":\"37791f20-d0a4-11ee-b634-89fef0259834\",\"name\":\"Dante\",\"titledName\":\"Coach Dante\",\"imageUrl\":\"https://assets-coaches.chess.com/image/coachdante.png\",\"voiceId\":\"Dante_coach\",\"country\":{\"id\":3,\"name\":\"Canada\",\"nameLocalized\":\"Canada\",\"code\":\"CA\"},\"locale\":\"en-US\",\"textId\":\"Generic_coach\",\"analyticsId\":\"Dante\",\"iconUrl\":\"https://assets-coaches.chess.com/image/coachdante-icon.png\",\"taglines\":[{\"text\":\"Hi, I'm Coach Dante. I want to help you learn chess!\",\"audioUrlHash\":\"e2fd7a22d721f15db4087e86d0cf83c7cab3254f432f9c92027256fd4c8909b3\"},{\"text\":\"Hello, I'm Coach Dante! I can help you get better at chess.\",\"audioUrlHash\":\"391f1bb77086874ccf595afa506c6229ec67db45b6cb4d1a9b066a3217c5e86c\"},{\"text\":\"I'm Dante! Let me coach you to chess success.\",\"audioUrlHash\":\"0e1832871b00a0cd688e5e9171a96c555128e270fdac937e449633f22375f01f\"},{\"text\":\"I'm Dante and it's my mission to teach you chess!\",\"audioUrlHash\":\"109babd919fde5dfd74b6c9a8b4f61e6e534c7400e13b88b0872f8051d58dc63\"},{\"text\":\"Dante here! Pick me and we'll learn a lot together.\",\"audioUrlHash\":\"2b6eefc41d1417ff41aace1a31443aebd9772d5ef417f775e9b5275e54f15b67\"}],\"i18nMeta\":{\"languageIndicator\":\"\"}}}}"
+        },
+        {
+          "name": "BT_AA_DETECTION",
+          "value": "{\"ab\":false,\"acceptable\":true,\"nlf\":false}"
+        },
+        {
+          "name": "cto_bundle",
+          "value": "W4w_tl85JTJGR3R2SyUyRlJVWkclMkJXYmU1TEh3eHpnWldacXoxd1RscGNSendMWmZodU52VHRUcU41TE9jNEE0TUxUbDJxY21MMG80SUUwZGYxTHZ6UTFYeGpIY0RuSEF0eFR4eWJUaGNxZGVWa25HY0M4RlIyT1pEMkFrVENSZ0pqdktObGRrYw"
+        },
+        {
+          "name": "cwgl",
+          "value": "{\"country\":\"IN\",\"region\":\"RJ\",\"city\":\"Jaipur\",\"postalCode\":\"302003\"}"
+        },
+        {
+          "name": "id5id_exp",
+          "value": "Thu, 09 Oct 2025 14:34:34 GMT"
+        },
+        {
+          "name": "_GESPSK-esp.criteo.com",
+          "value": "[\"esp.criteo.com\",null,1752244469515,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "tude-raven-sampling-bucket",
+          "value": "0.7542074249612669"
+        },
+        {
+          "name": "chat-cache-6d01d6ba-fd00-11ec-9664-ad4f65276f79",
+          "value": "{\"chat-open-chats\":{}}"
+        },
+        {
+          "name": "goog:cached:topics",
+          "value": "[null,1752244474430,3]"
+        },
+        {
+          "name": "id5id",
+          "value": "%7B%22signature%22%3A%22ID5_AmeSZF_XLiQtdDwL7MzuncMR6DlNFxFS8phHyJNGtdaCGXJipP9c6CyZiZZvTX8lSRCsU0Kg9HVTRQUW-Vj3uJvHwGtdNFmZsEN8sNv_khdgADWhWYPIM-f7UNMNGupWH3WTLh81Z50aQJ8Ecm-zbloyoaKQryotOqGpwIhjTE1yxYnqU34%22%2C%22created_at%22%3A%222025-07-11T14%3A34%3A29.795Z%22%2C%22id5_consent%22%3Atrue%2C%22original_uid%22%3A%22ID5*6xoAq8_Jy64x1YC_8r_9r5UFYjkdHFroIuX47q05TpIvm0iPhg9IG8mivkZC3myf%22%2C%22universal_uid%22%3A%22ID5*2FEpFA1p-H2gR6ik_jqwBOE_Xnb4nOW8CW8k2R-jCpsvmwSMLo5fwvSRMcZx8NCh%22%2C%22link_type%22%3A2%2C%22cascade_needed%22%3Atrue%2C%22privacy%22%3A%7B%22jurisdiction%22%3A%22other%22%2C%22id5_consent%22%3Atrue%7D%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%22hiRJqOO1pyCimnT4lt5vKR0kq9jcODPeN8%2F%2Fbct8yjW%2FT5xixGp8UhhbdtzYfuC0%22%7D%2C%22cache_control%22%3A%7B%22max_age_sec%22%3A7200%7D%2C%22ids%22%3A%7B%22id5id%22%3A%7B%22eid%22%3A%7B%22source%22%3A%22id5-sync.com%22%2C%22uids%22%3A%5B%7B%22id%22%3A%22ID5*2FEpFA1p-H2gR6ik_jqwBOE_Xnb4nOW8CW8k2R-jCpsvmwSMLo5fwvSRMcZx8NCh%22%2C%22atype%22%3A1%2C%22ext%22%3A%7B%22linkType%22%3A2%2C%22pba%22%3A%22hiRJqOO1pyCimnT4lt5vKR0kq9jcODPeN8%2F%2Fbct8yjW%2FT5xixGp8UhhbdtzYfuC0%22%7D%7D%5D%7D%7D%7D%7D"
+        },
+        {
+          "name": "aps:7da53191-0ab3-490c-88b7-cd110e20b7e7:deviceSignal/sua",
+          "value": "{\"architecture\":\"arm\",\"bitness\":\"64\",\"mobile\":0,\"model\":\"\",\"source\":2,\"platform\":{\"brand\":\"macOS\",\"version\":[\"14\",\"6\",\"1\"]},\"browsers\":[{\"brand\":\"Not.A/Brand\",\"version\":[\"99\",\"0\",\"0\",\"0\"]},{\"brand\":\"Chromium\",\"version\":[\"136\",\"0\",\"7103\",\"25\"]}]}"
+        },
+        {
+          "name": "cwglt",
+          "value": "1752244468599"
+        },
+        {
+          "name": "homeCoachNudgesCache",
+          "value": "{\"lastShown\":\"2025-07-11T14:34:28.383Z\",\"nextNudgeType\":\"puzzles\",\"acceptHistory\":[false]}"
+        },
+        {
+          "name": "chat-cache-5e694926-c1eb-11ec-a802-11dfaa67a4a7",
+          "value": "{\"chat-open-chats\":{}}"
+        },
+        {
+          "name": "btUserCountry",
+          "value": "IN"
+        },
+        {
+          "name": "apstagCxMEnabled",
+          "value": "1"
+        },
+        {
+          "name": "aps:7da53191-0ab3-490c-88b7-cd110e20b7e7:sessionMarker/marker",
+          "value": "9e67b128-e8da-48aa-9d50-ff3bbc11d043_2025-07-11T14:34:29.628Z"
+        },
+        {
+          "name": "json_settings",
+          "value": "{\"lastSavedRelease\":1504891089,\"cclocale\":\"en_US\",\"chessComAppState\":\"{}\"}"
+        },
+        {
+          "name": "rciv",
+          "value": "null"
+        },
+        {
+          "name": "_iiq_fdata",
+          "value": "{\"pcid\":\"c9dce579-f451-451e-8d93-e443d547bb0c\",\"pcidDate\":1752244474521}"
+        },
+        {
+          "name": "user-activity-sdk-device-id",
+          "value": "b048e366-403f-11f0-af19-6df954d00f55"
+        },
+        {
+          "name": "hb_insticator_uid",
+          "value": "365ed87c-98d0-4c69-8149-3d9144b5d408"
+        },
+        {
+          "name": "_GESPSK-id5-sync.com",
+          "value": "[\"id5-sync.com\",\"ID5*2FEpFA1p-H2gR6ik_jqwBOE_Xnb4nOW8CW8k2R-jCpsvmwSMLo5fwvSRMcZx8NCh\",1752244474881]"
+        },
+        {
+          "name": "league-promotion-modal-fetched-week",
+          "value": "28"
+        },
+        {
+          "name": "id5id_cst",
+          "value": "zix7LPQsHA=="
+        },
+        {
+          "name": "_GESPSK-adserver.org",
+          "value": "[\"adserver.org\",\"af605df0-a6b1-4868-9b46-cf15846d217d\",1752244474881]"
+        },
+        {
+          "name": "_GESPSK-criteo.com",
+          "value": "[\"criteo.com\",\"Onf3GF95VFpjcXRsREZHU0lBc2V3YVRMdk9BeW9JUDclMkZmelpwMnAweEk1SWtlJTJGak45UklXQldRaldRSHU4b3RNQUFmJTJGZzZJWDRCTSUyQkowaGM5R1U2eGJaRDh3JTNEJTNE\",1752244474881]"
+        },
+        {
+          "name": "id5id_last",
+          "value": "Fri, 11 Jul 2025 14:34:34 GMT"
+        },
+        {
+          "name": "_iiq_fdata_350115424",
+          "value": "{\"callCount\":0,\"pubprovidedPrebidCallCount\":0,\"manualCallCount\":0,\"failCount\":0,\"noDataCounter\":0,\"cttl\":43200000,\"clientType\":\"\",\"adserverDeviceType\":\"\",\"terminationCause\":\"\",\"profile\":\"\",\"siteId\":null}"
+        },
+        {
+          "name": "_iiq_sync_350115424",
+          "value": "1752244474522"
+        },
+        {
+          "name": "settingsHttpCache",
+          "value": "{\"5e694926-c1eb-11ec-a802-11dfaa67a4a7\":{\"toaster_center.automatically_expand_toasters,toaster_center.show_club_request_toasters,toaster_center.show_friend_request_toasters,toaster_center.show_tournament_reminder_toasters\":{\"tag\":\"W/\\\"6209dad81e007f6c4036a8d978e1426f\\\"\",\"settings\":{\"toaster_center.show_friend_request_toasters\":true,\"toaster_center.show_tournament_reminder_toasters\":true,\"toaster_center.show_club_request_toasters\":true,\"toaster_center.automatically_expand_toasters\":true}}},\"6d01d6ba-fd00-11ec-9664-ad4f65276f79\":{\"toaster_center.automatically_expand_toasters,toaster_center.show_club_request_toasters,toaster_center.show_friend_request_toasters,toaster_center.show_tournament_reminder_toasters\":{\"tag\":\"W/\\\"6209dad81e007f6c4036a8d978e1426f\\\"\",\"settings\":{\"toaster_center.show_friend_request_toasters\":true,\"toaster_center.show_tournament_reminder_toasters\":true,\"toaster_center.show_club_request_toasters\":true,\"toaster_center.automatically_expand_toasters\":true}}}}"
+        },
+        {
+          "name": "btUserIsFromRestrictedCountry",
+          "value": "false"
+        },
+        {
+          "name": "ditu_session",
+          "value": "{\"id\":\"_bbdr1iGIMgc\",\"lastActivityTimestamp\":1752244473648}"
+        },
+        {
+          "name": "currentCoach",
+          "value": "{\"id\":\"3779595e-d0a4-11ee-a188-05b5e2276152\",\"name\":\"Mae\",\"titledName\":\"Coach Mae\",\"imageUrl\":\"https://assets-coaches.chess.com/image/coachmae.png\",\"voiceId\":\"Mae_coach\",\"country\":{\"id\":78,\"name\":\"Japan\",\"nameLocalized\":\"Japan\",\"code\":\"JP\"},\"locale\":\"en-US\",\"textId\":\"Generic_coach\",\"analyticsId\":\"Mae\",\"iconUrl\":\"https://assets-coaches.chess.com/image/coachmae-icon.png\"}"
+        },
+        {
+          "name": "btUserCountryExpiry",
+          "value": "1752244769881"
+        },
+        {
+          "name": "_GESPSK-33across.com",
+          "value": "[\"33across.com\",null,1752244469571,null,null,null,null,null,null,[109]]"
+        },
+        {
+          "name": "_GESPSK-permutive-secure-signal",
+          "value": "[\"permutive-secure-signal\",null,1752244469515,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "_qcses_p-GANCBjEfRH5Fe",
+          "value": "{\"lastEvent\":1752244474006,\"sid\":\"c551b39c-04fd-4480-b987-2cd43e0d4c67\",\"engagementState\":{\"eventsCount\":1,\"engagementDurationMs\":0,\"hasConversionEvent\":false,\"lastVisibleTs\":1752244469595},\"config\":{\"timeoutMs\":1800000}}"
+        },
+        {
+          "name": "rcik",
+          "value": "null"
+        },
+        {
+          "name": "ditu_user",
+          "value": "{\"id\":\"Us_9m5XFcab1\",\"userAddedTimestamp\":1752244468939,\"lastPageload\":1752244473648}"
+        },
+        {
+          "name": "_GESPSK-rtbhouse",
+          "value": "[\"rtbhouse\",null,1752244469515,null,null,null,null,null,null,[100]]"
+        },
+        {
+          "name": "league-division-started-modal-fetched-week",
+          "value": "28"
+        },
+        {
+          "name": "__qca",
+          "value": "{\"value\":\"P1-5ddd38ea-1a2f-4c44-b332-16f9246c2c3a\",\"expiry\":1786113274115}"
+        }
+      ]
+    },
+    {
+      "origin": "https://player.twitch.tv",
+      "localStorage": [
+        {
+          "name": "local_copy_unique_id",
+          "value": "\"1dac3b6583a6a2dd\""
+        },
+        {
+          "name": "local_storage_device_id",
+          "value": "\"ce30aae0d808f6cf\""
+        },
+        {
+          "name": "local_storage_app_session_id",
+          "value": "\"ce188dfe764df363\""
+        },
+        {
+          "name": "sentry_device_id",
+          "value": "\"d38ce0d04c36e637\""
+        },
+        {
+          "name": "CV7o9fRC/gx24wn2",
+          "value": "{tG\u000eJ\u0015\",]\u0013VFC\u001e\u001aQ\tYC'tO>fR\n\u0010R'3S,U\u000f7-[3\u0017YQ\u0019L\bCGUg\u0018\u001f\u001c\u0005\u00065%W;/e\u0004M<\u000b2\\.*K\u0002\u0018\u001ag\u00160g\u0005'\"\u0016!C&CM:0m\u0002Q\b*ww>\u0012\u0003D/?\u0005/\u0011V?'\r'>e\u0006?U\n/~$mSg\u0017]1\u0012@B\u00139V\u0018Ce5d9\u0016\u0012u\u00176i\u0007gM(S.`\u0001~Q\u0002vg6>[\u000b\u001fn\u001aa\u0000w\u0000x-\u0017Kwf['_\f\u001b/Z\u00062gB/\n\u00129]\b4\u001a\u001cqM\u0002\u0015\n$?pX]4&%|2A\u0007qE\u001dJC[\u00152$\f50X'\u001b\\/:R\u0001^\u0003\u0017-N\u0005\u0014WPUTF\u0013\u0002R}t\u0006 6A\u0001\u0001i*;RM\u0003Wew\u0017^K\u0002\u0006OX\u0001PB\u001bs5\u0019,!Y\u0010'T.3\u0015U\bQf{\u0016TH\u0000\fAZ\u0000Y\n\u001bs1\u0004)jC\u0013\u001aI >\u0019\u001bODh8\r\u0002\u0016Q[\u0013\u000bV\"\u001b^48\u0001\u0011+\\\u0001\u001d\u001fyt\u0007\ru\u0011e\u0005l\f\u0017vEEVy9?d\u0016,7\r3\u0002\"A[\u000e$Z\u0006{>\u000brd\f\u001bhf&WzRC\\\u00073D2\u0005|\u0002AN\u0016gC\t@\u001c\u000b:i\u00017\\].\u001e}\u0007\u001e}\u0015f\u0019\u0003&\u0007\u001e\u0016qpb\u00035nV+*D>-\u000bZ\r\"d\u0018\u0006_\u0001d,\u001f'm\u0007)T\u0014\u0015]5\u000b\"a\u000fN.\u001fB\u0006C*z\u0017\u0018\u000e&3\u0002\u001d\u0015M\u001d\u0004Q\u0002%b\n^.?6m\u000b(dM\u0015VV)Dre7\u001d* \\\u0011>~ut\u001bMZ\u0014+3[\b;ZU\u001b\u0002W\u000f\u0010R\u00148\u0014'(R\u0000Q\u00077$B\n\u0015D!&]\u0011\u001d@`\u001e\u0003WCM\u0006fbM|w\u0007VK\nrd\u0007C\u001b\u0005>*J\t\ff]\u001a\u000b\u0010[F\u0000enLvt\u0005\\D\u000fwnJ\u0012"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::h",
+          "value": "1752244475771"
+        }
+      ]
+    }
+  ]
+}
