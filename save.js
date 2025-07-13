@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 
 (async () => {
-  const browser = await chromium.launch({ headless: false, slowMo: 100000 });
+  const browser = await chromium.launch({ headless: true, slowMo: 1000 });
 
   const storagePath = path.resolve(__dirname, 'storage.json');
 
