@@ -27,7 +27,7 @@ app.get('/search', async (req, res) => {
     await page.goto(url);
 
     // 10 second rukna
-    await new Promise(r => setTimeout(r, 10000));
+    await new Promise(r => setTimeout(r, 3000));
 
     await browser.close();
 
