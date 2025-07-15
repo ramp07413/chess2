@@ -14,7 +14,7 @@ RUN npm install
 COPY . .
 
 # Port expose karo (jo tu use kar raha hai)
-EXPOSE 4001
+EXPOSE 10000
 
 # App start command
 CMD ["node", "index.js"]
