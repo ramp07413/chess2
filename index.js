@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 
 const app = express();
-const PORT = 4001;
+const PORT = process.env.PORT;
 const storagePath = path.resolve(__dirname, 'storage.json');
 const storageState = JSON.parse(fs.readFileSync(storagePath, 'utf-8'));
 
@@ -38,6 +38,6 @@ app.get('/search', async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`Server listening on port ${PORT}`);
 });
